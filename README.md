@@ -12,7 +12,7 @@ Installation
 ```
 mkdir -p ~/.config/terminator/plugins
 cd ~/.config/terminator/plugins
-wget --no-check-certificate https://github.com/Jorengarenar/Terminator-ToggleTitlebar/toggle_titlebar.py
+wget https://raw.githubusercontent.com/Jorengarenar/Terminator-ToggleTitlebar/master/toggle_titlebar.py
 ```
 
 Then, restart Terminator, go to Preferences --> Plugins, and select ToggleTitlebar
