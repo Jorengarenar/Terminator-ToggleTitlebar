@@ -9,7 +9,7 @@ This plugin adds _Show titlebar_ option to pop-up menu
 Installation
 ------------
 
-```
+```sh
 mkdir -p ~/.config/terminator/plugins
 cd ~/.config/terminator/plugins
 wget https://raw.githubusercontent.com/Jorengarenar/Terminator-ToggleTitlebar/master/toggle_titlebar.py
